@@ -1,3 +1,3 @@
 # mastermind 
-Mastermind- Turing M1 project 
-Created by JP Lynch 
+#### Mastermind- Turing M1 project 
+#### Created by JP Lynch 
