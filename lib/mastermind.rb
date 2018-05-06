@@ -1,4 +1,5 @@
-require '~/turing/1module/projects/mastermind/lib/text'
+require './lib/text'
+
 class Mastermind
 
   attr_reader :generated_code_array, :correct_colors, :correct_positions, :number_of_spots, :number_of_colors, :finish_minutes, :finish_seconds, :user_guess_cheat_detected, :user_guess_length_validated, :user_guess_chars_validated
