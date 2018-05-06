@@ -1,5 +1,5 @@
-require '~/turing/1module/projects/mastermind/lib/mastermind.rb'
-require '~/turing/1module/projects/mastermind/lib/text.rb'
+require './lib/mastermind.rb'
+require './lib/text.rb'
 
 textblocks = Text.new
 textblocks.welcome_text
